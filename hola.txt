@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hola mi nombre es Cristo y tengo 20 años
 Hola mi nombre es Alonso y tengo 20 años
 Tengo poca experiencia programando 
+=======
+Hola mi nombre es Cristo y tengo 20 años y soy programador web
+Hola mi nombre es Alonso y tengo 20 años
+>>>>>>> 787e05a48dd9d501b9b432a7fe685696d9fdbfb1
